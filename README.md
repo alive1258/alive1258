@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Zamirul Kabir</h1>
+<h3 align="center">I'm MERN Stack Developer || React JS Developer || Front-End Developer</h3>
 
+- 🔭 I’m working in **ASAIN IT INC**
 
-**alive1258/alive1258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **advance technology for web development**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **exciting web development ventures**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤝 I’m looking for help with **to be part of your visions**
+
+- 👨‍💻 All of my projects are available at [https://my-portfolio-21d7d.web.app/](https://my-portfolio-21d7d.web.app/)
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **zamirulkabir999@gmail.com**
+
+- ⚡ Fun fact **I love bike Riding and I can speak in 4 language**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
