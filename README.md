@@ -20,17 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-### Hi there 👋, Zamirul kabir
-#### I'm MERN Stack Developer || React JS Developer || Front-End Developer
-![I'm MERN Stack Developer || React JS Developer || Front-End Developer](https://ibb.co/kQNPbP3)
-
-I'm a Web Developer. Feel free to get in touch with me. I'm always open to discussing new projects, ideas & opportunities to be part of your visions.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
 
 
 
