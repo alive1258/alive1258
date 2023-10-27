@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **to be part of your visions**
 
-- 👨‍💻 All of my projects are available at [![MyProtfolio](https://img.shields.io/badge/MyProtfolio-%23430098.svg?style=for-the-badge&logo=MyProtfolio&logoColor=white)](https://my-portfolio-21d7d.web.app/)
+- 👨‍💻 All of my projects are available at [![MyProtfolio](https://img.shields.io/badge/MyProtfolio-%23130098.svg?style=for-the-badge&logo=MyProtfolio&logoColor=white)](https://my-portfolio-21d7d.web.app/)
   
 
 
