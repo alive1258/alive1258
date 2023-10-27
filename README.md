@@ -11,7 +11,8 @@
 
 - 🤝 I’m looking for help with **to be part of your visions**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-21d7d.web.app/](https://my-portfolio-21d7d.web.app/)
+- 👨‍💻 All of my projects are available at **![Portfolio](https://my-portfolio-21d7d.web.app/](https://my-portfolio-21d7d.web.app/?style=for-the-badge&logo=css3&logoColor=white) 
+
 
 - 💬 Ask me about **Web Development**
 
