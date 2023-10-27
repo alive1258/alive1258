@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I love bike Riding and I can speak 4 languages**
 
-<h3 align="left">Connect with me : zamirulkabir999@gmail.com</h3>
+<h3 align="left">Connect with me : [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ZamirulKabir999) </h3>
 <p align="left">
 </p>
 
