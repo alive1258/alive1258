@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zamirul Kabir</h1>
 <img align="center" alt="Coding" width="100%" src="https://s3-ap-southeast-2.amazonaws.com/ish-oncourse-scc/a8578396-462f-4f53-a11b-b5754ca8135e?versionId=74YfTieiljW9njtRR4tTFAzHOTR4mzmS" /><?br>
-<h3 align="center">I'm MERN Stack Developer || React JS Developer || Front-End Developer</h3>
+<h3 align="center" color="pink">I'm MERN Stack Developer || React JS Developer || Front-End Developer</h3>
 
 - 🔭 I’m working in **ASAIN IT INC**
 
