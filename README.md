@@ -36,8 +36,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100060866764137) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zamirul463/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zamirul-kabir-575a41279/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ZamirulKabir999) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alive1258&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alive1258&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=alive1258&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/></br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alive1258&theme=vue-dark&hide_border=false)<br/></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alive1258&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
