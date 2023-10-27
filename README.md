@@ -42,7 +42,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img align="right" alt="Coding" width="400" src="https://raw.githubsercontent.com/Potentiall17/master/user%20(2).gif" /><?br>
+<img align="right" alt="Coding" width="400" src="https://raw.githubsercontent.com/Potentiall17/master/user%20(2).gif" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alive1258&limit=5&theme=dark&combine_all_yearly_contributions=true)
