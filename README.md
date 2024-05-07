@@ -1,7 +1,7 @@
 
 <h1 align="center" >Hi 👋, I'm Zamirul Kabir</h1>
 
-<img align="center" alt="Coding" width="100%" src="https://github.com/alive1258/alive1258/blob/main/Zamirul_bannar.png" />
+<img align="center" alt="Coding" width="100%" src="https://github.com/alive1258/alive1258/blob/main/Zamirul_kabir_bannar.png" />
 <h3  align="center" >I'm MERN Stack Developer || React JS Developer || Front-End Developer</h3>
 
 
