@@ -5,7 +5,8 @@
 
 
 - 🔭 I’m working in **ASAIN IT INC**
-<img align="right" alt="Coding"  width="400" src="[https://techbullion.com/wp-content/uploads/2023/07/origin.jpg](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJ4OTUzcmd3MGNrdDZsYjlkNG9yMHhiam05OTJwa3k0dnp1aGV6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" />
+<img align="right" alt="Coding"  width="400" src="![image](https://github.com/alive1258/alive1258/assets/92072943/30a13977-f49d-4fd8-a290-de1d26219bd8)
+" />
 
 - 🌱 I’m currently learning **advance technology for web development**
 
