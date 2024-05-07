@@ -1,7 +1,7 @@
 
 <h1 align="center" >Hi 👋, I'm Zamirul Kabir</h1>
 
-<img align="center" alt="Coding" width="100%" src="https://github.com/alive1258/alive1258/blob/main/Zamirul_kabir_bannar.png" />
+<img align="center" alt="Coding" width="100%" src="https://github.com/alive1258/alive1258/blob/main/Zamirul_gitHub_Bannar.png" />
 <h3  align="center" >I'm MERN Stack Developer || React JS Developer || Front-End Developer</h3>
 
 
@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **to be part of your visions**
 
-- 👨‍💻 All of my projects are available at [![MyProtfolio](https://img.shields.io/badge/MyProtfolio-%23431098.svg?logo=MyProtfolio&logoColor=white)](https://my-portfolio-21d7d.web.app/)
+- 👨‍💻 All of my projects are available at [![MyProtfolio](https://img.shields.io/badge/MyProtfolio-%23431098.svg?logo=MyProtfolio&logoColor=white)](https://zamirul-kabir-protfoilio.vercel.app/)
   
 
 
