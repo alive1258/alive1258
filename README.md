@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="100%" src="https://github.com/alive1258/alive1258/blob/main/Zamirul_gitHub_Bannar.png" />
+<img align="center" alt="Coding" width="100%" src="https://ibb.co.com/mqQXg1H" />
 <h3  align="center" >I'm MERN Stack Developer ||  Front-End Developer || Next Js || React JS ||</h3>
 
 
