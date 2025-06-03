@@ -1,6 +1,6 @@
 
 <img align="center" alt="Coding" width="100%" src="https://github.com/alive1258/alive1258/blob/main/Zamirul_gitHub_Bannar.png" />
-<h3  align="center" >I'm MERN Stack Developer ||  Front-End Developer || Next Js || React JS ||</h3>
+<h3  align="center" >I'm Full Stack Developer || MERN Stack Developer || Front-End Developer || Next Js || React JS || Nest JS</h3>
 
 
 - 🔭 I’m working in **ASAIN IT INC**
