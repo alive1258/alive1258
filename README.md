@@ -54,6 +54,12 @@ I bring **2+ years of professional experience** as a **Software Developer**, cur
 
 ⭐ From [Zamirul Kabir](https://github.com/alive1258)  
 
+## 🌎 Visitors Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ZamirulKabir/count.svg" alt="Visitor Count" />
+</p>
+
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=alive1258&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alive1258&theme=vue-dark&hide_border=false)  
