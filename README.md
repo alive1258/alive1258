@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="100%" src="https://github.com/alive1258/alive1258/blob/main/cover_pic.png" /> <h3 align="center" >I'm Full Stack Developer || MERN Stack Developer || Front-End Developer || Next Js || React JS || Nest JS</h3>
 <h4>💡 💡 Passionate about building **scalable web applications** and solving **real-world problems** with clean, maintainable code.  
 I bring **2+ years of professional experience** as a **Software Developer**, currently working at **EForgeIT, Palermo, Sicily, Italy**.   </h4>
-- 🔭 I’m working in **EForgeIT, Palermo, Sicily, Italy <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJ4OTUzcmd3MGNrdDZsYjlkNG9yMHhiam05OTJwa3k0dnp1aGV6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" /> 
+- 🔭 Currently contributing to **enterprise-grade web applications** at EForgeIT  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJ4OTUzcmd3MGNrdDZsYjlkNG9yMHhiam05OTJwa3k0dnp1aGV6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" /> 
 
 -🌱 I’m currently learning **advance technology for web development**
 - 👯 I’m looking to collaborate on **exciting web development ventures**
