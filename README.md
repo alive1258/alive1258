@@ -54,6 +54,10 @@ I bring **2+ years of professional experience** as a **Software Developer**, cur
 
 ⭐ From [Zamirul Kabir](https://github.com/alive1258)  
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZamirulKabir&theme=radical&no-frame=true&margin-w=10" alt="Trophies" />
+</p>
 
 
 # 📊 GitHub Stats
