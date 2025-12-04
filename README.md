@@ -1,7 +1,7 @@
-<img align="center" alt="Coding" width="100%" src="https://github.com/alive1258/alive1258/blob/main/LinkedIn cover - final.png" /> <h3 align="center" >Full-Stack Developer | MERN | React.Js | Next.js | NestJS Enthusiast</h3>
+<img align="center" alt="Coding" width="100%" src="https://github.com/alive1258/alive1258/blob/main/LinkedIn cover - final.png" /> <h3 align="center" >Frontend-Focused Full-Stack Developer | MERN Stack| React.Js | Next.js | NestJS Enthusiast</h3>
 <h4>💡 💡 Passionate about building **scalable web applications** and solving **real-world problems** with clean, maintainable code.  
 I bring **2.5+ years of professional experience** as a **Software Developer**,  </h4>
-- 🔭 Currently contributing to **enterprise-grade web applications** at EForgeIT  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJ4OTUzcmd3MGNrdDZsYjlkNG9yMHhiam05OTJwa3k0dnp1aGV6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" /> 
+- 🔭 Currently contributing to **enterprise-grade web applications**  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJ4OTUzcmd3MGNrdDZsYjlkNG9yMHhiam05OTJwa3k0dnp1aGV6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" /> 
 
 -🌱 I’m currently learning **advance technology for web development**
 - 👯 I’m looking to collaborate on **exciting web development ventures**
