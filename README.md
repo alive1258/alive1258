@@ -109,6 +109,21 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alive1258&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+## 🏅 Achievements
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=alive1258&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  ![GitHub Contributors](https://github-contributor-stats.vercel.app/api?username=alive1258&limit=5&theme=radical&combine_all_yearly_contributions=true&show_icons=true)
+</div>
+
+---
+
+
 ## 🏆 Featured Projects
 
 ### **🚀 Smart Task Manager Dashboard**
@@ -175,16 +190,7 @@ I believe that **clarity is kindness** in the world of tech education. Every con
 
 ---
 
-## 🏅 Achievements
 
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=alive1258&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  ![GitHub Contributors](https://github-contributor-stats.vercel.app/api?username=alive1258&limit=5&theme=radical&combine_all_yearly_contributions=true&show_icons=true)
-</div>
-
----
 
 ## 🎯 What I Bring to the Table
 
