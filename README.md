@@ -1,80 +1,184 @@
-<img align="center" alt="Coding" width="100%" src="https://github.com/alive1258/alive1258/blob/main/LinkedIn cover - final.png" /> <h3 align="center" >Frontend-Focused Full-Stack Developer | MERN Stack| React.Js | Next.js | NestJS Enthusiast</h3>
-<h4>💡 💡 Passionate about building **scalable web applications** and solving **real-world problems** with clean, maintainable code.  
-I bring **2.5+ years of professional experience** as a **Software Developer**,  </h4>
-- 🔭 Currently contributing to **enterprise-grade web applications**  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJ4OTUzcmd3MGNrdDZsYjlkNG9yMHhiam05OTJwa3k0dnp1aGV6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" /> 
+<p align="center">
+  <img align="center" alt="Coding" width="100%" src="https://github.com/alive1258/alive1258/blob/main/LinkedIn cover - final.png" />
+</p>
 
--🌱 I’m currently learning **advance technology for web development**
-- 👯 I’m looking to collaborate on **exciting web development ventures**
-- 🤝 I’m looking for help with **to be part of your visions**
-- 👨‍💻 All of my projects are available at [![MyProtfolio](https://img.shields.io/badge/MyProtfolio-%23431098.svg?logo=MyProtfolio&logoColor=white)](https://zamirul-kabir-protfoilio.vercel.app/)
-- 💬 Ask me about **Web Development**
-- 📫 How to reach me **zamirulkabir999@gmail.com**
-- ⚡ Fun fact **I love bike Riding and I can speak 4 languages**
--  <h3 align="left">Connect with me : zamirulkabir999@gmail.com</h3> <p align="left"> </p> 
+<div align="center">
+  <h1 align="center">👨‍💻 Zamirul Kabir</h1>
+  <h3 align="center">Frontend-Focused Full-Stack Developer</h3>
+  <p align="center">
+    <strong>MERN Stack | Next.js | TypeScript | NestJS Enthusiast</strong>
+  </p>
+  
+  <p align="center">
+    <a href="https://zamirul-kabir-protfoilio.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:zamirulkabir999@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/zamirul-kabir-575a41279/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
-# 💻 Tech Stack
+---
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/html5-%23FF9901.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+## 🚀 About Me
 
-**Backend:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJ4OTUzcmd3MGNrdDZsYjlkNG9yMHhiam05OTJwa3k0dnp1aGV6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
+
+🎯 **Passionate Full-Stack Developer** with **2.5+ years** of professional experience crafting scalable web applications that solve real-world problems. I specialize in creating clean, maintainable code and delivering exceptional user experiences.
+
+### ✨ Quick Facts
+- 🔭 Currently working on **enterprise-grade web applications**
+- 🌱 Learning **Advanced Web Development** and **System Design**
+- 🎯 Passionate about **UI/UX** and **Performance Optimization**
+- 🏆 Open to **collaborating** on innovative projects
+- 🎨 Love creating **intuitive** and **responsive** interfaces
+- 🚴‍♂️ Fun fact: **Bike enthusiast** who can speak **4 languages**
+
+---
+
+## 🛠️ Tech Stack
+
+### **🌐 Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+### **⚙️ Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Database:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Mongoose](https://img.shields.io/badge/Mongoose-FF6C39.svg?style=for-the-badge&logo=Mongoose&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+### **🔧 DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-**Design:**  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
---- ## 🌐 Socials Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zamirul-kabir-575a41279/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100060866764137) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zamirul463/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ZamirulKabir999)
+### **🎨 Design & UI/UX**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 ---
 
-⭐ From [Zamirul Kabir](https://github.com/alive1258)  
-Check out my 3D GitHub Skyline here 👉 [My Skyline](https://skyline.github.com/alive1258)
+## 📈 GitHub Analytics
 
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=alive1258&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=alive1258&theme=vue-dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alive1258&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
-[![Zamirul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alive1258&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  
+  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alive1258&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alive1258&layout=compact&theme=radical&hide_border=true) |
+  | :---: | :---: |
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=alive1258&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alive1258&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Graph)
+</div>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alive1258&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🏆 Featured Projects
+
+### **🚀 Smart Task Manager Dashboard**
+> A comprehensive task management solution with intelligent auto-assignment features
+<br> ![Next.js](https://img.shields.io/badge/Next.js-13-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript) ![Redux](https://img.shields.io/badge/Redux_Toolkit-purple?logo=redux) ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+
+### **🏥 Healthcare Management System**
+> Full-featured hospital management platform with real-time analytics
+<br> ![React](https://img.shields.io/badge/React-18-blue?logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-teal?logo=tailwind-css) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?logo=framer)
+
+### **🌍 BD Food Flow - Disaster Relief**
+> Disaster relief platform for coordinating food and supply distribution
+<br> ![MERN](https://img.shields.io/badge/MERN_Stack-red) ![RTK Query](https://img.shields.io/badge/RTK_Query-orange) ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
+
+[View All Projects →](https://zamirul-kabir-protfoilio.vercel.app/)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=alive1258&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📚 Latest Blog Posts
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- BLOG-POST-LIST:START -->
+- [Building Scalable React Applications with TypeScript](https://example.com/blog1)
+- [Mastering Next.js 14: Best Practices and Patterns](https://example.com/blog2)
+- [Authentication Strategies in Modern Web Apps](https://example.com/blog3)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=alive1258&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  ![GitHub Contributors](https://github-contributor-stats.vercel.app/api?username=alive1258&limit=5&theme=radical&combine_all_yearly_contributions=true&show_icons=true)
+</div>
+
+---
+
+## 🎯 What I Bring to the Table
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">🎨 UI/UX Excellence</h3>
+      <p align="center">Creating intuitive, responsive interfaces with modern design principles</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">⚡ Performance Focus</h3>
+      <p align="center">Optimizing applications for speed, scalability, and efficiency</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🔧 Clean Code</h3>
+      <p align="center">Writing maintainable, testable, and scalable code with best practices</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zamirul-kabir-575a41279/)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZamirulKabir999)
+  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zamirul463/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alive1258)
+  
+  ### 📧 Reach Out
+  **Email:** [zamirulkabir999@gmail.com](mailto:zamirulkabir999@gmail.com)
+  
+  ### 🌟 Support My Work
+  If you like what I do, consider starring ⭐ my repositories!
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🎯 Quote of the Day
+  > "The only way to do great work is to love what you do." - Steve Jobs
+  
+  <img src="https://komarev.com/ghpvc/?username=alive1258&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  ---
+  
+  <p align="center">
+    <i>⭐ Proudly crafted with passion and precision</i><br>
+    <b>Zamirul Kabir</b> • Software Developer • Full-Stack Enthusiast
+  </p>
+  
+  [![3D Skyline](https://img.shields.io/badge/My%203D%20GitHub%20Skyline-000000?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/alive1258)
+</div>
