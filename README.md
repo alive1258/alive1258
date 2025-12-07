@@ -163,14 +163,7 @@ I believe that **clarity is kindness** in the world of tech education. Every con
 
 </div>
 
-### 🌈 Learning Experience Promise
-mermaid
-graph LR
-    A[Clear Concepts] --> B[Practical Examples]
-    B --> C[Hands-On Practice]
-    C --> D[Real Projects]
-    D --> E[Confidence & Skills]
-    E --> F[Career Growth]
+
 
 ## 📚 Latest Blog Posts
 
