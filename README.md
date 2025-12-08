@@ -34,10 +34,12 @@
 Constantly exploring new technologies, I aim to stay at the forefront of web development and create meaningful products.
 
 ### ✨ Quick Facts
-- 🔭 Currently working on **enterprise-grade web applications**
-- 🌱 Learning **Advanced Web Development** and **System Design**
-- 🎯 Passionate about **UI/UX** and **Performance Optimization**
+- 🔭 Currently working on **real-time tracker application** using modern tech stacks
+- 🔭 Building enterprise-grade web applications with TypeScript, React, Next.js, Node.js, and NestJS
+- 🌱 Continuously learning advanced web development, system design, and exploring **Go**
+- 🎯 Passionate about **UI/UX** and **Performance Optimization** and **clean architecture**
 - 🏆 Open to **collaborating** on innovative projects
+- 💻 Focused on writing maintainable, efficient code and following software development best practices
 - 🎨 Love creating **intuitive** and **responsive** interfaces
 - 🚴‍♂️ Fun fact: **Bike enthusiast** who can speak **4 languages**
 
