@@ -100,16 +100,15 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 
 ## 📈 GitHub Analytics
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=alive1258&show_icons=true&theme=radical&hide_border=true" width="350"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alive1258&layout=compact&theme=radical&hide_border=true" width="350"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alive1258&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alive1258&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+</div>
+
 
 
 
