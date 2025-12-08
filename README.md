@@ -103,15 +103,14 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 <table>
   <tr>
     <td align="center">
-      <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=alive1258&show_icons=true&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=alive1258&show_icons=true&theme=radical&hide_border=true" width="350"/>
     </td>
     <td align="center">
-      <h3>Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alive1258&layout=compact&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alive1258&layout=compact&theme=radical&hide_border=true" width="350"/>
     </td>
   </tr>
 </table>
+
 
 
 
