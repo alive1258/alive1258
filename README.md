@@ -100,9 +100,19 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 
 ## 📈 GitHub Analytics
 
-| GitHub Stats | Top Languages |
-| :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alive1258&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alive1258&layout=compact&theme=radical&hide_border=true) |
+<table>
+  <tr>
+    <td align="center">
+      <h3>GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=alive1258&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+    <td align="center">
+      <h3>Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alive1258&layout=compact&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 
 
 <div align="center">
