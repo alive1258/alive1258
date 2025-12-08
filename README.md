@@ -30,7 +30,8 @@
   <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJ4OTUzcmd3MGNrdDZsYjlkNG9yMHhiam05OTJwa3k0dnp1aGV6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
-🎯 **Passionate Full-Stack Developer** with **2.5+ years** of professional experience crafting scalable web applications that solve real-world problems. I specialize in creating clean, maintainable code and delivering exceptional user experiences.
+🎯 **Passionate Full-Stack Developer** with **2.5+ years** of professional experience crafting scalable web applications that solve real-world problems. I enjoy solving complex problems and translating ideas into meaningful digital solutions. I believe that progress comes from continuous learning, passion fuels creativity, and persistence shapes success. I thrive on innovation, collaboration, and delivering seamless user experiences that make a difference.
+Constantly exploring new technologies, I aim to stay at the forefront of web development and create meaningful products.
 
 ### ✨ Quick Facts
 - 🔭 Currently working on **enterprise-grade web applications**
