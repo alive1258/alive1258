@@ -100,17 +100,6 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 
 ## 📈 GitHub Analytics
 
-
-| GitHub Stats | Top Languages |
-|:------------:|:-------------:|
-| <img src="https://github-readme-stats.vercel.app/api?username=alive1258&show_icons=true&theme=radical&hide_border=true" width="300"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alive1258&layout=compact&theme=radical&hide_border=true" width="300"/> |
-
-| GitHub Streak | Contribution Graph |
-|:------------:|:-------------:|
-| <img src="https://streak-stats.demolab.com?user=alive1258&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="300"/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=alive1258&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="300"/> |
-
-
-
 <div align="center">
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=alive1258&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
