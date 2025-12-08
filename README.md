@@ -110,9 +110,6 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alive1258&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🏅 Achievements
 
 <div align="center">
