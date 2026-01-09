@@ -109,14 +109,10 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 
 ---
 
-## 🏅 Achievements
+## 🏅 📉Current Stats:
 
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=alive1258&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  ![GitHub Contributors](https://github-contributor-stats.vercel.app/api?username=alive1258&limit=5&theme=radical&combine_all_yearly_contributions=true&show_icons=true)
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alive1258theme=dracula)<br/> <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alive1258&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
