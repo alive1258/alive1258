@@ -112,7 +112,7 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 
 ## 🏅 📉 Current Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alive1258&theme=dracula)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alive1258&theme=dracula)
 
 <br/><br/>
 
