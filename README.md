@@ -109,10 +109,15 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 
 ---
 
-## 🏅 📉Current Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alive1258theme=dracula)<br/> <br/>
+## 🏅 📉 Current Stats:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alive1258&theme=dracula)
+
+<br/><br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alive1258&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
