@@ -98,6 +98,42 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
+
+<br><br>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<!-- ROW 1 -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Rime-Islam&theme=tokyonight" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alive1258&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
+<!-- ROW 2 -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alive1258&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alive1258&theme=github_dark&utcOffset=6" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=alive1258&theme=react-dark&bg_color=20232a&hide_border=true"
+  width="100%"
+/>
+
 ## 📈 GitHub Analytics
 
 <div align="center">
