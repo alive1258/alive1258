@@ -106,7 +106,7 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=Rime-Islam&theme=tokyonight" />
+      <img src="https://streak-stats.demolab.com?user=alive1258&theme=tokyonight" />
     </td>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alive1258&theme=github_dark" />
