@@ -100,7 +100,7 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 
 
 <br><br>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📈 GitHub Analytics</h2>
 <br>
 <!-- ROW 1 -->
 <table align="center">
@@ -133,26 +133,6 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
   src="https://github-readme-activity-graph.vercel.app/graph?username=alive1258&theme=react-dark&bg_color=20232a&hide_border=true"
   width="100%"
 />
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=alive1258&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alive1258&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Graph)
-</div>
-
----
-
-
-## 🏅 📉 Current Stats:
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alive1258&theme=dracula)
-
-<br/><br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alive1258&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
