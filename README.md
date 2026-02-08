@@ -10,7 +10,7 @@
   </p>
   
   <p align="center">
-    <a href="https://zamirul-kabir-protfoilio.vercel.app/">
+    <a href="[https://zamirul-kabir-protfoilio.vercel.app/](https://zamirul-kabir-portfolio.vercel.app/)">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:zamirulkabir999@gmail.com">
