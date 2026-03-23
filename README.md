@@ -4,9 +4,9 @@
 
 <div align="center">
   <h1 align="center">👨‍💻 Zamirul Kabir</h1>
-  <h3 align="center">Frontend-Focused Full-Stack Developer</h3>
+  <h3 align="center">Competitive Programmer || Problem Solver || Full-Stack Developer </h3>
   <p align="center">
-    <strong>MERN Stack | Next.js | TypeScript | NestJS Enthusiast</strong>
+    <strong>MERN Stack | React.js | Next.js | TypeScript | NestJS Enthusiast </strong>
   </p>
   
   <p align="center">
