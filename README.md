@@ -165,9 +165,9 @@ I believe that **clarity is kindness** in the world of tech education. Every con
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable React Applications with TypeScript](https://example.com/blog1)
-- [Mastering Next.js 14: Best Practices and Patterns](https://example.com/blog2)
-- [Authentication Strategies in Modern Web Apps](https://example.com/blog3)
+- [AI in Software Development]([https://example.com/blog2](https://www.asianitinc.com/blog/ai-in-software-development))
+- [Custom Software Solutions]([https://example.com/blog1](https://www.asianitinc.com/blog/custom-software-solutions))
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
