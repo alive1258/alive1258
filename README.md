@@ -165,8 +165,8 @@ I believe that **clarity is kindness** in the world of tech education. Every con
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Software Development]([https://example.com/blog2](https://www.asianitinc.com/blog/ai-in-software-development))
-- [Custom Software Solutions]([https://example.com/blog1](https://www.asianitinc.com/blog/custom-software-solutions))
+- [AI in Software Development](https://www.asianitinc.com/blog/ai-in-software-development)
+- [Custom Software Solutions](https://www.asianitinc.com/blog/custom-software-solutions)
 
 <!-- BLOG-POST-LIST:END -->
 
