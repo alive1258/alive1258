@@ -106,23 +106,6 @@ Constantly exploring new technologies, I aim to stay at the forefront of web dev
 ---
 
 
-## 🏆 Featured Projects
-
-### **🚀 Smart Task Manager Dashboard**
-> A comprehensive task management solution with intelligent auto-assignment features
-<br> ![Next.js](https://img.shields.io/badge/Next.js-13-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript) ![Redux](https://img.shields.io/badge/Redux_Toolkit-purple?logo=redux) ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
-
-### **🏥 Healthcare Management System**
-> Full-featured hospital management platform with real-time analytics
-<br> ![React](https://img.shields.io/badge/React-18-blue?logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-teal?logo=tailwind-css) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?logo=framer)
-
-### **🌍 BD Food Flow - Disaster Relief**
-> Disaster relief platform for coordinating food and supply distribution
-<br> ![MERN](https://img.shields.io/badge/MERN_Stack-red) ![RTK Query](https://img.shields.io/badge/RTK_Query-orange) ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
-
-[View All Projects →](https://zamirul-kabir-protfoilio.vercel.app/)
-
----
 
 ## 🎯 The Mission Behind My Teaching
 
@@ -162,15 +145,7 @@ I believe that **clarity is kindness** in the world of tech education. Every con
 
 
 
-## 📚 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [AI in Software Development](https://www.asianitinc.com/blog/ai-in-software-development)
-- [Custom Software Solutions](https://www.asianitinc.com/blog/custom-software-solutions)
-
-<!-- BLOG-POST-LIST:END -->
-
----
 
 
 
