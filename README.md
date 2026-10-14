@@ -4,10 +4,13 @@
 
 <div align="center">
   <h1 align="center">👨‍💻 Zamirul Kabir</h1>
-  <h3 align="center">Competitive Programmer || Problem Solver || Full-Stack Developer </h3>
-  <p align="center">
-    <strong>MERN Stack | React.js | Next.js | TypeScript | NestJS Enthusiast </strong>
-  </p>
+<p align="center">
+  <strong>Backend Engineer @ ZenUI Labs</strong>
+</p>
+
+<p align="center">
+  Node.js | NestJS | Go | Python | FastAPI | PostgreSQL | React.js | Next.js | TypeScript | Docker | CI/CD
+</p>
   
   <p align="center">
     <a href="[[https://zamirul-kabir-protfoilio.vercel.app/](https://zamirul-kabir-portfolio.vercel.app/)]">
